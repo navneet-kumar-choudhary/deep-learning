@@ -1,0 +1,1 @@
+During an Epidemic outbreak and Govt. and municipality don't have a rough estimate of the type and rate of the epidemic so it became somewhat hard to inform peoples ,hospitals regarding that.Through the data of previous years of climatic conditions we create a model which can predict the type and rate of an epidemic by taking weather data of a particular location as an input.
